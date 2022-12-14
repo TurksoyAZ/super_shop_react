@@ -1,0 +1,15 @@
+button {
+  background-color: tomato;
+  font-size: 30px;
+  padding: 15px 60px;
+  border: 1px solid tomato;
+  border-radius: 60px;
+  color: white;
+  margin-top: 20px;
+  transition: 0.2s all ease;
+}
+
+button:hover {
+  transform: scale(1.1);
+  box-shadow: rgb(125, 124, 124) 0 0 20px;
+}
